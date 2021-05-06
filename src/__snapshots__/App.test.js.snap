@@ -134,7 +134,7 @@ exports[`List has a valid snapshot 1`] = `
       }
     >
       <button
-        className="button-inline button-active"
+        className="button-inline"
         onClick={[Function]}
         type="button"
       >
